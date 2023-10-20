@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(to top, #dd5b15 1%, #1f0b01 90%);
+    height: 100vh;
+
+    /* Add any additional CSS properties here */
+}
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* set the height of the div to the viewport height */
+}
+.my-link {
+    text-decoration: none;
+}
+h1,
+p {
+    text-align: center;
+    color: antiquewhite;
+}
+h1 {
+    font-size: 70px;
+}
+p {
+    font-size: 30px;
+}
+a {
+    color: rgb(66, 134, 236);
+}
